@@ -1,73 +1,50 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Jest-test
 
-# Project Name
-
-> Description the project.
+> In this project I try to follow the Jest instructions to test my project..
 
 
-## Built With
+### Built With
+- JavaScript
+- JEST
+  
+### Getting Started
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+> To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+- Github Account
+- IDE
+- Git
+
 ### Setup
 
-### Install
+- git init
+- git clone https://github.com/TahenyBELGUITH/Jest-Test.git
 
-### Usage
+### Authors
 
-### Run tests
+### 👩 Taheny BELGUITH
 
-### Deployment
+- GitHub: [@TahenyBELGUITH](https://github.com/TahenyBELGUITH)
+- Twitter: [@BelguithTaheny](https://twitter.com/BelguithTaheny)
 
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
+### 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+> Feel free to check the issues page.
 
-## Show your support
+### Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+### Acknowledgments
+- Hat tip to Microvers for giving me this project,
+- Hat tip to All my peers in Microverse who gave me ides and suggestions to improve this website.
 
-## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+### 📝 License
+
+This project is MIT licensed.
